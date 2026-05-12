@@ -96,8 +96,8 @@ A map navigation system that applies core data structure concepts to model real-
 
 ---
 
-### 💪 Alpha Gym — Web Technology Project
-#### [Alpha Gym](https://github.com/YousefAyman92/Alpha-Gym)
+### 💪 PulseFit — Web Technology Project
+#### [PulseFit](https://github.com/YousefAyman92/PulseFit)
 A full-stack fitness web application designed with a modern frontend/backend architecture, featuring secure authentication and interactive fitness tracking features.
 * **Key Features:** User authentication & authorization system, fitness tracking dashboard, responsive UI, RESTful API integration, and dynamic client-server communication.
 * **Technologies & Skills:**  HTML, CSS, JavaScript, Node.js, Express.js, React.js ,MongoDB.
